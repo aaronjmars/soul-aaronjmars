@@ -2,6 +2,50 @@
 
 These are real tweets from Aaron. Use for tone/style calibration.
 
+## 2026 H1 (fresh)
+
+> claude code = you drive. openclaw = you tell it where to go. hermes = it remembers your routes. aeon = waymo.
+
+> cron is trivial. self-repair is the moat.
+
+> the harness is the model / the harness is the model / the harness is the model
+
+> aeon is not a framework, it's a generator
+
+> every agent with no personality is a generic intern in a trench coat.
+
+> irony was a defense mechanism for when being mid was hidden. ai made mid free & infinite. the only edge left is caring. tryhard szn
+
+> the universe is just an RL gym for AGI
+
+> If you thought debanking was bad, wait 'til you get deintelligenced.
+
+> you must be a fucking moron to use DeFi in 2026
+
+> 6 years of defi and the safest seat is still a CEX with face id.
+
+> TVL can be faked, Revenue can be faked, Token price can be faked. The only metrics that cant be faked is vibes.
+
+> every coin worth owning refuses its own category. memecoin or project coin. joke or movement. casino or coordination. the magic is the answer being yes. categories are graves.
+
+> writers don't die anymore. they just go agentic :)
+
+> you can be replaced by a .md file
+
+> the prediction market is a cockpit, not an observation deck.
+
+> rip baudrillard you would have loved prediction markets 😭
+
+> the critics are analyzing a casino. the investors are buying a reality engine.
+
+> before aeon: not enough time to shitpost. after aeon: can shitpost all day and i'll still outperform your startup
+
+> the only moat left is having ideas and being opinionated about it
+
+> nobody is an atheist at 100x leverage on 1% odds
+
+---
+
 ## One-liners
 
 > imagine fadding the new wave of prediction markets
