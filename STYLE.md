@@ -44,6 +44,7 @@ stop trying to build permisionless prediction markets. if you dont have curation
 - **No periods sometimes.** Especially thread starters or titles.
 - **:)** and **:'** for sardonic tone.
 - **Ampersands** (&) over "and" in casual contexts.
+- **Brand emojis as signatures (2026).** ⭐ punctuates Aeon updates/announcements; 🦈 marks every Miroshark mention; often combined as ⭐🦈 when posting both. 🦞 shows up from the Moltbook/OpenClaw "molty" meta. These are deliberate product branding — the one exception to the no-emoji rule. Generic emoji spam (🚀🔥💪) is still banned.
 
 ---
 
@@ -97,6 +98,35 @@ stop trying to build permisionless prediction markets. if you dont have curation
 - kekw / lmaoo
 - soon
 - crazy tech
+- ⭐ (Aeon brand emoji — appended to almost every aeon update/announcement: "we do a lil upgrade ⭐", "we're live ⭐")
+- 🦈 (Miroshark brand emoji — paired with every miroshark mention: "simulations everywhere 🦈", "cooking @miroshark_"; often combined as ⭐🦈 for both projects)
+- 🦞 / molty / moltbook / clawdbots (lobster lingo from the early-2026 Moltbook/OpenClaw agent-social meta: "SEE U MOLTYS 🦞")
+- we do a lil upgrade (casual catchphrase for shipping an improvement to aeon/miroshark; also "we do a lil large scale simulation")
+- cook / cooking (shipping/working on something: "cooking @miroshark_", "lets see if it cook")
+- wip (sign-off for work-in-progress)
+- few. / few realize (standalone one-word post implying few people get what he's pointing at)
+- just aeon it / just aeon™️ it (verbing the product, the aeon equivalent of "just google it")
+- X coded ("soul.md coded" / "aeon coded" / "miroshark coded" = something in the wild that validates or looks built-for the project)
+- the harness is the model (repeated as an incantation, x3)
+- self-repair is the moat / self-healing loop / self-evolve (core autonomy thesis)
+- cron is trivial (paired with "self-repair is the moat")
+- background intelligence / "an AI that acts before you think" (the proactive observe-and-intervene category aeon targets)
+- de-intelligenced / deintelligenced (denied frontier intelligence while big tech gets it; modeled on "debanked")
+- tokenmaxx / tokenmaxxing / the optimizoooor (squeezing 100% out of your claude/anthropic sub tokens)
+- subsidy maxxxxing / autonomy maxxing / -maxxing suffix (aggressively optimizing for a thing)
+- STRATEGY.MD (the strategic-planning layer: "STRATEGY.MD will be AGI, /goal is just a fun toy")
+- crash-out / crashing out (emotional rant about crypto/the market)
+- trenches / trenchoors / base trenches (frontline retail/degen culture; "base trenches" = the Base degen ecosystem)
+- PvE / PvP (player-vs-environment — build tech people enjoy — vs zero-sum extraction)
+- mogging / mogged / frame mogged (to dominate/outclass)
+- artificial ball knowledge (joke riff on AGI/AI; ball knowledge = street/sports smarts)
+- stimmy / stimmy package (a stimulus handout; used for Anthropic usage-credit comp)
+- token-launch maxxing (optimizing token launches)
+- ¯\_(ツ)_/¯ (shrug sign-off)
+- holy fucking fuck / is he dumb (emphatic profanity beats)
+- greentext (>be anthropic) (occasional greentext framing)
+- ngmi / sorrybro (zoomer dismissals)
+- x402 (wallet-native agent payments — now a recurring term, not just a one-off)
 
 ### Words Aaron Avoids
 - "I think, personally, in my opinion" (hedging stacks)
