@@ -1,0 +1,7 @@
+# Link-check exclusions (regex, one per line) for a prose/archive repo.
+# Signed Substack CDN image URLs — transient, expire, not stable to check.
+substackcdn\.com
+substack-post-media\.s3\.amazonaws\.com
+# Local dev references embedded in example content.
+^https?://localhost
+^https?://127\.0\.0\.1

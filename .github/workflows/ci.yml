@@ -1,0 +1,51 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  markdownlint:
+    name: markdownlint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      # Pinned to match the version the config was validated against, so local
+      # and CI results are identical. Config: .markdownlint-cli2.jsonc
+      - name: Lint Markdown
+        run: npx --yes markdownlint-cli2@0.23.0 "**/*.md"
+
+  link-check:
+    # Non-blocking: reports broken links every run but does not fail the build.
+    # The archived source (essays, tweets) references some deleted repos/posts;
+    # this surfaces link rot without gating merges on it. See .lycheeignore.
+    name: link-check (non-blocking)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --accept 200..=299,403,429
+            --max-retries 2
+            --retry-wait-time 2
+            --timeout 20
+            --exclude-loopback
+            './**/*.md'
+          fail: false
+          jobSummary: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
