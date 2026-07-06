@@ -1,0 +1,29 @@
+{
+  // Lenient-but-real markdownlint config for a prose + archived-source repo.
+  // Structural rules stay on (broken links, bad list nesting, unclosed fences,
+  // heading increments, etc.); purely-cosmetic / prose-hostile rules are off so
+  // curated essays and tweets aren't reformatted to satisfy a linter.
+  "config": {
+    "default": true,
+    "MD009": false, // trailing spaces — present in imported source, leave untouched
+    "MD013": false, // line-length — irrelevant for prose paragraphs
+    "MD022": false, // blanks around headings — cosmetic
+    "MD024": false, // duplicate headings — expected across archived essays
+    "MD025": false, // multiple top-level headings — one per archived doc section
+    "MD026": false, // trailing punctuation in heading — voice uses "?"/"."
+    "MD028": false, // blank line inside blockquote — quote-heavy essays
+    "MD031": false, // blanks around fenced code — cosmetic
+    "MD032": false, // blanks around lists — cosmetic
+    "MD033": false, // inline HTML — allowed in imported content
+    "MD034": false, // bare URLs — intentional in source/data files
+    "MD036": false, // emphasis-as-heading — stylistic in essays
+    "MD039": false, // spaces inside link text — imported content
+    "MD040": false, // fenced code language — not all snippets are typed
+    "MD041": false, // first line top-level heading — data files start with prose
+    "MD045": false, // image alt text — imported substack images
+    "MD058": false, // blanks around tables — cosmetic
+    "MD060": false  // table column style — imported tables
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules"]
+}
