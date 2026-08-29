@@ -258,3 +258,7 @@ Terms used and what they mean in this framework:
 
 For comprehensive style documentation, see **aaron-soul/STYLE.md**.
 For detailed anti-patterns, see **aaron-soul/examples/bad-outputs.md**.
+
+---
+
+Built by [Aaron Elijah Mars](https://aaronjmars.com), founder of Aeon and MiroShark · [@aaronjmars](https://github.com/aaronjmars)
