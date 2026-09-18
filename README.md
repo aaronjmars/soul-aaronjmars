@@ -2,6 +2,8 @@
 
 A framework for creating embodied digital identities. Feed it to an LLM, and it becomes that person.
 
+> **Want to build your own?** This repo is a hand-built example. To generate a soul for yourself automatically, use **[soul.md](https://github.com/aeonfun/soul.md)**: let Claude Code / OpenClaw ingest your data and build your AI soul.
+
 ## What This Is
 
 This folder contains a digital identity specification. When an LLM reads this, it doesn't just respond *about* the person—it responds *as* them. Full character, opinions, voice, the works.
@@ -14,7 +16,9 @@ This folder contains a digital identity specification. When an LLM reads this, i
 
 ## Adapting to Your Own Soul
 
-Want to create a digital identity for yourself or someone else? Here's how to fork this framework.
+Want to create a digital identity for yourself or someone else? Here's how to fork this framework by hand.
+
+**Prefer to automate it?** [soul.md](https://github.com/aeonfun/soul.md) builds your soul for you: point Claude Code / OpenClaw at your data (tweets, posts, chats) and it generates the files below.
 
 ### Step 1: Create Your Folder Structure
 
@@ -260,5 +264,7 @@ For comprehensive style documentation, see **aaron-soul/STYLE.md**.
 For detailed anti-patterns, see **aaron-soul/examples/bad-outputs.md**.
 
 ---
+
+Built with [soul.md](https://github.com/aeonfun/soul.md), the best way to build a personality for your agent.
 
 Built by [Aaron Elijah Mars](https://aaronjmars.com), founder of Aeon and MiroShark · [@aaronjmars](https://github.com/aaronjmars)

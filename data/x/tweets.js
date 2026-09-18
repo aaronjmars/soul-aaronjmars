@@ -33626,7 +33626,7 @@ window.YTD.tweets.part0 = [
   {
     "tweet": {
       "id": "1874912455224353271",
-      "text": "RT @wawe_online: Hi! We are looking for a Graphic Designer (freelance) with experience in web/gaming, send portfolios to hola@wawe.online 💻…"
+      "text": "RT @wawe_online: Hi! We are looking for a Graphic Designer (freelance) with experience in web/gaming, send portfolios to [email redacted] 💻…"
     }
   },
   {
@@ -84662,7 +84662,7 @@ window.YTD.tweets.part0 = [
   {
     "tweet": {
       "id": "1464932503014326277",
-      "text": "📌 For a huge project, we are looking for a Solidity and/or Rust w/ CosmWasm developer.\n\nApply by mail here : 0000CE0@protonmail.com"
+      "text": "📌 For a huge project, we are looking for a Solidity and/or Rust w/ CosmWasm developer.\n\nApply by mail here : [email redacted]"
     }
   },
   {
