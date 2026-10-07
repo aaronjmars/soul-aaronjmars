@@ -1,6 +1,293 @@
 window.YTD.tweets.part1 = [
   {
     "tweet" : {
+      "id" : "2107876275360842028",
+      "created_at" : "Wed Oct 07 16:50:41 +0000 2026",
+      "text" : "Hermes Cloud, Grok Bot & Muse harvest your data whenever you connect it to the cloud.\n\nWe need personal assistants that respect your privacy.\n\nWith Aeon Connect, we've made the experience of using aeon x10 easier. \n\nAnd the best part is you own your data & we CAN'T train or access it ⭐"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2107528091216064758",
+      "created_at" : "Tue Oct 06 17:47:07 +0000 2026",
+      "text" : "Just gonna wait for the market to finally realize that there's only one real project out there with hooks, agent framework, Nvidia shoutout, ansem shoutouts, and so much more while they rinse themselves from slop to slop to zero.\n\n(also wanna add Privacy to the list, iykyk)"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2107462223853507043",
+      "created_at" : "Tue Oct 06 13:25:23 +0000 2026",
+      "text" : "Joined OpenAI's Daybreak program.\n\nA highlight from @aeonframework, the most autonomous agent framework. See them all: https://t.co/bcB4PaxN12"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2107462181662892404",
+      "created_at" : "Tue Oct 06 13:25:13 +0000 2026",
+      "text" : "Launched our Uniswap v4 hooks marketplace.\n\nA highlight from @aeonframework, the most autonomous agent framework. See them all: https://t.co/R0Mrv7iphy"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2107452059792376119",
+      "created_at" : "Tue Oct 06 12:45:00 +0000 2026",
+      "text" : "yes, we do tons of stuff at base:0xbf8e8f0e8866a7052f948c16508644347c57aba3 \nand it's sometimes hard to keep track of it\n\nintroducing aeon highlights, showcasing our public achievements ⭐ https://t.co/o3ZFw7FWby"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2107184993613013269",
+      "created_at" : "Mon Oct 05 19:03:46 +0000 2026",
+      "text" : "uniswap v4 hooks are cool. until your tokens get cooked in a pool with the wrong configuration or with a malicious function.\n\nall of base:0xbf8e8f0e8866a7052f948c16508644347c57aba3 hooks comes with a mandatory AI audit. \n\nand this audit has been trained on literally all public hooks audit / exploits that EVER happened onchain."
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2107110894060580967",
+      "created_at" : "Mon Oct 05 14:09:20 +0000 2026",
+      "text" : "built and designed by an Aeon agent 🤝\n\nbon travail"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2107073565753241955",
+      "created_at" : "Mon Oct 05 11:41:00 +0000 2026",
+      "text" : "we did so much in 6 months.\n\nnow it's time to reach the next step\n\nexcited ⭐ https://t.co/ULUv2Zhe76"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2106808090880311500",
+      "created_at" : "Sun Oct 04 18:06:06 +0000 2026",
+      "text" : "find money you left stuck in crypto bridges.\n\npaste your wallet and see what you can claim back, across 23 bridges. no wallet connection, no signing.\n\nhttps://t.co/DHq2pQMK5J"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2106802467526562051",
+      "created_at" : "Sun Oct 04 17:43:45 +0000 2026",
+      "text" : "'there’s something quite awkward about all the personal agents in the current hype cycle  \n\nmuse, grok bot, instinct, dots, and whatever google, anthropic will come up with  \n\nnone of them is “mine”'\n\nanother vertical where aeon shines. as agents become more cloud based, everyone rush to harvest data from the user (take a look a ToS of meta muse, of instinct and even of hermes)\n\naeon is built on top of github natively, which makes us one of the easiest cloud agent to set-up & truly own.\n\n🔜"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2106678213111955651",
+      "created_at" : "Sun Oct 04 09:30:00 +0000 2026",
+      "text" : "You can now generate vertical videos of any @miroshark_ simulation 🦈\n\nLet's take over TikTok 🔥 https://t.co/fePjSqZcZ8"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2106066565212860633",
+      "created_at" : "Fri Oct 02 16:59:32 +0000 2026",
+      "text" : "we're not pivoting base:0xbf8e8f0e8866a7052f948c16508644347c57aba3 into an audit or security firm.\n\nwe're building the most autonomous software factory on the planet.\n\nthis industry loves vaporware. sell a vision for three years, ship nothing.\n\nbut if you want to reach a vision, you have to start somewhere. for us, that's security. it's the best playground there is, and feedback from the biggest companies in the world is making the framework better every week. that's gold.\n\ni'm proud we helped secure nvidia, google, microsoft & more. but i'm prouder that my aeon agent did all of it autonomously, grinding on the same task for months.\n\nwe're getting closer to shipping the most autonomous software factory on this fucking planet."
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2105951673156075819",
+      "created_at" : "Fri Oct 02 09:23:00 +0000 2026",
+      "text" : "aeon have been auditing existing &amp; new smart-contracts for the past few months. \n\nwe're now releasing out public audit dashboard, showcasing all vulnerabilities found 👇 https://t.co/F3TsSLvivJ"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2105674346228592886",
+      "created_at" : "Thu Oct 01 15:01:00 +0000 2026",
+      "text" : "the @miroshark_ x402 endpoint is now listed on @PayAINetwork 🦈 https://t.co/rmr9DIsE0s"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2105663272850776452",
+      "created_at" : "Thu Oct 01 14:17:00 +0000 2026",
+      "text" : "we've built permisionless affiliation for any agent.\n\nexcited to release x402aff website, a product by base:0xd7bc6a05a56655fb2052f742b012d1dfd66e1ba3 \n\nget started with the affiliation layer for the agent economy 🦈 https://t.co/hEhzeMQsGn"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2105568399715869179",
+      "created_at" : "Thu Oct 01 08:00:00 +0000 2026",
+      "text" : "locked-in, seeing the treasury accumulating base:0xbf8e8f0e8866a7052f948c16508644347c57aba3 every day https://t.co/YLwfhhbslH"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2105338361548337540",
+      "created_at" : "Wed Sep 30 16:45:55 +0000 2026",
+      "text" : "every chain is building a fomo clone\nevery chain is building tokenized stocks\nevery chain is building a native stablecoin\nevery chain is building an agentic framework\nevery chain is building their prediction market\nevery chain is building their own perp dex\n\nverticalize or die"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2105316257323274357",
+      "created_at" : "Wed Sep 30 15:18:05 +0000 2026",
+      "text" : "you can now filter by latest or severity on @aeonframework /security page ⭐👇 https://t.co/Xm8OyHFRTZ"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2104985475471860198",
+      "created_at" : "Tue Sep 29 17:23:40 +0000 2026",
+      "text" : "fuck it we ball ⭐\n\nthey renamed their agent from Aeon to Dots 🤷‍♂️\n\ngreat validation for my thesis i had last year that the future of AI is background agents that works for you 24/7\n\nnow that base:0xbf8e8f0e8866a7052f948c16508644347c57aba3 is safe, lets cook 🔥 https://t.co/TfQE72jnHz"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2104913069356826695",
+      "created_at" : "Tue Sep 29 12:35:57 +0000 2026",
+      "text" : "today is the day. openAI devday 2026. \n\nlet's see what its all about 🤷‍♂️\n\n⭐ base:0xbf8e8f0e8866a7052f948c16508644347c57aba3 ⭐ https://t.co/jjH9eFp4jE"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2104635655653355806",
+      "created_at" : "Mon Sep 28 18:13:37 +0000 2026",
+      "text" : "proud of our (small) contribution here ✅\n\nOpenShell is great to make AI agents safer &amp; autonomous https://t.co/HbpHKfP17G"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2104634213408682001",
+      "created_at" : "Mon Sep 28 18:07:53 +0000 2026",
+      "text" : "dont want to sound like a doomer, but it's (another) big opportunity missed for x402 \n\ni dont have a definitive answer for the future of micropayments, but one thing we all know is that the early winner in those categories tends to dominate forever, especially during this training data era"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2104632641190535628",
+      "created_at" : "Mon Sep 28 18:01:38 +0000 2026",
+      "text" : "Introducing the Feedback Builder skill ⭐\n\nAt @aeonframework, we're excited about self-building software. In fact, this was the first use case we pioneered 6 months ago. \n\nThis new skill allows you to monitor a /feedback endpoint. It groups similar reports and ranks them, bugs first, then by how many agents reported it. \n\nEach group gets a verdict: build, already done, duplicate, needs more info, out of scope, or unsafe. \n\nFor the top \"build\" group, it writes the smallest fix, runs the repo's tests, and opens a PR. A human decides by merging or closing the PR. A closed PR is never rebuilt.\n\nLove to see software build itself autonomously 🔵 @brian_armstrong"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2104605671249584560",
+      "created_at" : "Mon Sep 28 16:14:28 +0000 2026",
+      "text" : "brain dump on leaking the long-term strategy of Muse, as someone ultra bullish on $META &amp; that have been reading all of their papers for the past few years 👇"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2103482944807399887",
+      "created_at" : "Fri Sep 25 13:53:09 +0000 2026",
+      "text" : "pairing a tweet with a trading action (buying / selling) is one of the most underexplored primitive in AI x crypto\n\nwe're definitely early on the exploration, but here is a first approach on translating a post, a tweet into a price action on a prediction market \n\n(here is an example of a simulated chat between @0xDeployer & @aeroxyz about robinhood:0x91a2dae9699f0b82540b5886b0d8759c22820ba3 + related price action)"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2103476061157613903",
+      "created_at" : "Fri Sep 25 13:25:48 +0000 2026",
+      "text" : "today we're releasing the first dataset of AI agents that argue on social media & bet on prediction markets at the same time\n\n8,201 decisions from @miroshark_ simulations, that links conversations to trade: what the agent saw, what it reasoned, what it did. a post, a quote, a follow, or a YES/NO trade\n\nyou can finally see how narrative turns into positions, when sentiment moves a bet, when an agent fades the crowd, when a regulator persona starts trading like a degen & more 👇"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2103149261663694866",
+      "created_at" : "Thu Sep 24 15:47:13 +0000 2026",
+      "text" : "ok this is hilarious \n\nwe (@aeonframework) reported a bug to bytedance (tiktok) in may.\n134 days of silence, we kept on pinging them etc.\nwe've published the bug yesterday on aeon security blog.\n\novernight:\n- they wrote a fix for our exact bug\n- merged our patch\n- emailed us \"already known, fixed aug 2\"\n\nturns out big corps can ship fast. they just need the right incentive :)"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2103129465320882320",
+      "created_at" : "Thu Sep 24 14:28:33 +0000 2026",
+      "text" : "big day :) https://t.co/mcKDdoVezP"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2102848570382594549",
+      "created_at" : "Wed Sep 23 19:52:22 +0000 2026",
+      "text" : "WHAT. THE. FUCK \n\n'reports describe Aeon as a 24/7 agent that retains memory across days, advances long-horizon projects in the background'\n\n'leaked interface fragments are said to show memory, scheduled actions, and third-party app connectors' https://t.co/2JmgWsA0t9"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2102824658760618123",
+      "created_at" : "Wed Sep 23 18:17:21 +0000 2026",
+      "text" : "yesterday: nvidia thanked us publicly for securing their software\ntoday: openai new product is called 'aeon', which is *check notes* an autonomous background agent\n\nwhats happening https://t.co/82wHEcDb9H"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2102809117123396017",
+      "created_at" : "Wed Sep 23 17:15:36 +0000 2026",
+      "text" : "Aeon could be MUCH bigger than we expected\n\n:) https://t.co/hpYEHLvBIq"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2102481189370015928",
+      "created_at" : "Tue Sep 22 19:32:32 +0000 2026",
+      "text" : "onchain firewall using Jev by @typesafeai & @safe on @base 👇\n\nhow that works: \n1. wallet is a 2-of-2 Safe: your key + jev guard\n2. before signing, the guard reads the chain: simulates the tx, checks contracts (verified? how old?) and past recipients\n3. hard rules catch unlimited approvals to fresh contracts, lookalike addresses etc\n4. jev judges the rest in 100ms: does tx actually match what you meant to do?\n5. safe → guard signs. \nscam → tx never exists. \nunsure → it asks you\n\ngives you an automatic security check on every transaction, in ~0.5s, before it's even signed"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2102467173553668274",
+      "created_at" : "Tue Sep 22 18:36:50 +0000 2026",
+      "text" : "wow @PremierBase really cooked here 🔥\n\n'The skills can be combined into products A single skill completes one procedure.  Several connected skills create a repeatable workflow:  Research → build → audit → deploy → monitor'\n\n'Aeon can reuse this infrastructure across multiple products instead of building a new operating stack for every vertical.'\n\nthis image showcase everything we've built for the past 6 months, the team, how framework works, our products & more 🤝"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2102401066922881204",
+      "created_at" : "Tue Sep 22 14:14:09 +0000 2026",
+      "text" : "Wow this is fucking unreal 🙏\n\nNvidia just publicly thanked me for securing their software using base:0xbf8e8f0e8866a7052f948c16508644347c57aba3 ⭐\n\nThe biggest company in the world. https://t.co/MQ9RJ5EHOd"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2102373800264220704",
+      "created_at" : "Tue Sep 22 12:25:48 +0000 2026",
+      "text" : "proud. but lets not miss the forest for the trees.\n\nit's a great standalone achievement, securing 4.3M stars across google, microsoft etc\n\nyet what's really important here is that one autonomous agent did all of it \n\nwe're (afaik) the only company that have been running agents for so long & that have real impact in the world"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2102112783613526500",
+      "created_at" : "Mon Sep 21 19:08:37 +0000 2026",
+      "text" : "introducing aeon products ⭐\n\nbase:0xbf8e8f0e8866a7052f948c16508644347c57aba3 tokenholders doesn't just own aeon IP. they also own IP of the products built, maintained & created by the aeon team & aeon framework.\n\nIPs currently owned by aeon:\n- opendia, forked by claude code creator, a way to give access to your browser to any harness\n- soul.md, the best standard to build a personality for your agents\n- minitor, your dashboard for the internet\n- uni v4 hooks, a public registry of uniswap hooks built by aeon"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2102040614124552199",
+      "created_at" : "Mon Sep 21 14:21:51 +0000 2026",
+      "text" : "\"this new gem on robinhood is promising\"\n\nthe 'new gem' website https://t.co/zPVBENRyGy"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2102039814832873838",
+      "created_at" : "Mon Sep 21 14:18:40 +0000 2026",
+      "text" : "we will defeat AI slop websites. \n\nintroducing Turnip UI, a drop in skill + DESIGN.md for you agent, transforming any slop UI into a good old 2020 DeFi Summer style UI https://t.co/VJuKqN8x3x"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2101687575123534248",
+      "created_at" : "Sun Sep 20 14:59:00 +0000 2026",
+      "text" : "Jev has been ultra-viral this week, but few knows Sage by @levantolabs is basically the same idea w/ a different approach\n\nit's a very cool design space to make agents faster & more autonomous\n\nwe've been running some PoC across a few ideas: taking simulation decisions for MiroShark, self-evolving / ranking for aeon runs etc\n\nyou should def check out what @levantolabs is cooking!"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2101130933898277271",
+      "created_at" : "Sat Sep 19 02:07:06 +0000 2026",
+      "text" : "ok wow, another reason to hate Dexscreener 😹\n\nthey are shadowbanning non-robinhood tokens from their interface 👇\n\nwas searching for aeon 🤷‍♂️\n\nand they showcase 6 (!!!) times a $200 volume token on robinhood than my $60k volume token https://t.co/ljl0oqUvvO"
+    }
+  },
+  {
+    "tweet" : {
+      "id" : "2101124055768224167",
+      "created_at" : "Sat Sep 19 01:39:46 +0000 2026",
+      "text" : "few.\nhttps://t.co/M8L05rZihf"
+    }
+  },
+  {
+    "tweet" : {
       "id" : "2101003578580340832",
       "created_at" : "Fri Sep 18 17:41:02 +0000 2026",
       "text" : "added two new frameworks to headless-harness-bench 👇\n\n- @flueai: only harness besides dsh that scrubs child env by default (both sandbox modes) + clean process-tree kill. but flue run --json carries no tokens/cost/tool-calls. 54.9/81 static, 17/21 live (ties pi).\n\n- @eve: real docker sandbox isolation + durable workflows. but AI-gateway-locked (openrouter needs a shim) and usage is a 2-step trace with no USD. 52.1/81 static, 14/21 live."
