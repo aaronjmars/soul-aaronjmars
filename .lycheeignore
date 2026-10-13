@@ -5,3 +5,6 @@ substack-post-media\.s3\.amazonaws\.com
 # Local dev references embedded in example content.
 ^https?://localhost
 ^https?://127\.0\.0\.1
+# q.ai never answers (times out, 4 refs in wtf-apple-doing.md); each check burned
+# ~2 min of retries and was the whole link-check wall time.
+^https?://q\.ai/?$

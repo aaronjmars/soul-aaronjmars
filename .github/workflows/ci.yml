@@ -34,11 +34,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # Reuse link results from earlier runs (lychee's --cache): a link checked
+      # OK in the last day is not fetched again. Each run saves under its own sha
+      # and restores the newest earlier cache, so results keep rolling forward.
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --no-progress
+            --cache
+            --max-cache-age 1d
             --accept 200..=299,403,429
             --max-retries 2
             --retry-wait-time 2
